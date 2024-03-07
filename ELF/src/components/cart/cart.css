@@ -127,3 +127,6 @@
 .cart__form__submit:hover {
   background-color: #333;
 }
+.cart__good span a {
+  cursor: pointer;
+}

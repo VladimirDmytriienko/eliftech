@@ -129,4 +129,4 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
-dev.sqlite3
+# dev.sqlite3
